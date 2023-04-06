@@ -23,10 +23,14 @@ Exemplos de comentários.
   | .| 'muitas amigas minhas estão gravidas e estão amando isso e mesmo assim dizem que e algo muito sofrido a gravidez pelos digamos efeitos colaterais se coloquem no lugar de quem tem que manter isso sem querer'| A-favor | **1**
   | .| 'mas a integridade física e emocional da pessoa estuprada fica abalada se o tal amontoado de celulas fosse um câncer e não um ser vivo ok mas e um indivíduo desde sua concepção e alem disso inocente da forma que foi gerado'| contra | **0**
 
-
+# 👀 Contribuidores
 Participaram da construção deste dataset:
+<table>
+  <tr>
+        <td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4E03AQG3hFs1PKk1dQ/profile-displayphoto-shrink_400_400/0/1635161950783?e=1686182400&v=beta&t=53cmnds9IPVOeLsxYds0ncUL5vXWIUjSPi17Y4GCFQw" width="100px;" alt=""/><br /><sub><b>Jeferson Nascimento Soares</b></sub></a><br /><a href="https://github.com/jef" title="Jeferson">👨‍🚀 UESPI</a></td>
+    <td align="center"><a href="https://github.com/natorjunior"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51802728?v=4" width="100px;" alt=""/><br /><sub><b>Nator Junior Carvalho da Costa</b></sub></a><br /><a href="https://github.com/natorjunior" title="Nator">👨‍🚀 UESPI</a></td>
+  </tr>
+</table>
+<br>
 
-Jeferson Nascimento Soares - (UESPI)
-
-Nator Junior Carvalho da Costa - (UESPI)
 ..
