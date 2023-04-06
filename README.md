@@ -25,6 +25,8 @@ Exemplos de comentários.
 
 
 Participaram da construção deste dataset:
+
 Jeferson Nascimento Soares - (UESPI)
+
 Nator Junior Carvalho da Costa - (UESPI)
 ..
